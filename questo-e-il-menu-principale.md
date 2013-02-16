@@ -1,6 +1,8 @@
 #Questo è il menu principale
 # Documentation index
 
+[http://google.com]
+
 ## Applications Knowledge Base ##
  
 * [[General Knowledge]]
